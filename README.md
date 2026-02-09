@@ -48,7 +48,7 @@ quiz.js – partially covered (DOM-heavy logic)
 questions.js – 100%
 scoreUtils.js – 100%
 
-Example Output
+Example Output:
     All files | 75% Statements | 81% Functions | 76% Lines
 
 ## Notes
@@ -56,6 +56,7 @@ Designed for learning & evaluation
 No frameworks used (pure JavaScript)
 Tests are beginner-friendly and readable
 Works on Windows / Linux / macOS
+
 
 
 
