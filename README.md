@@ -21,29 +21,26 @@ This project demonstrates **modular architecture, DOM manipulation, timers, stat
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
-    ```bash
+    bash
     git clone <repo-url>
     cd deliverable-4
-    ```
     
 ### 2. Install Dependencies
-    ```bash 
+    bash 
     npm install
-    ```
+    
 ### 3. Run the Application
     Open with Live Server
     OR double-click index.html
 
 ## Running Tests
 ### Run all tests
-    ```bash 
+    bash 
     npm test 
-    ```
 
 ### Run tests with coverage
-    ```bash
+    bash
     npm test -- --coverage
-    ```
 
 ## Coverage Summary
 Overall coverage ≥ 60%
@@ -58,6 +55,7 @@ Designed for learning & evaluation
 No frameworks used (pure JavaScript)
 Tests are beginner-friendly and readable
 Works on Windows / Linux / macOS
+
 
 
 
